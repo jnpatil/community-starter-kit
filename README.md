@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-Jayesh's Repository
+##Jayesh's Repository
 
 ## What it does
 
-It in entering to the world of Github
+##It in entering to the world of Github
 
 ## Getting started
 
