@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Jayesh's Repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It in entering to the world of Github
 
 ## Getting started
 
